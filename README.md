@@ -10,7 +10,7 @@ The dataset is available from the [UCI Machine Learning Repository](https://arch
 
 # Results
 
-In the **Exploratory data analysis.ipynb** I perform the corresponding analysis of the data and in the **Models.ipynb** I build and train some models to estimate the obesity level. In the next image you can see the confusion matrix of the best model for the tow situations I have explored: when the target have 3 and 4 levels.
+In the **Exploratory data analysis.ipynb** I perform the corresponding analysis of the data and in the **Models.ipynb** I build and train some models to estimate the obesity level. In the next image you can see the confusion matrix of the best models (find them in the **Models.ipynb**) for the two situations I have explored: when the target have 3 and 4 levels.
 
 ![GitHub Logo](/Best_models.png)
 
