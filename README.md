@@ -5,7 +5,7 @@ Project for the Data Science in Biomedicine subject of the Master in Data Scienc
 
 # Data
 
-The dataset is available from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php) and you can access it from [here](https://archive.ics.uci.edu/ml/datasets/Estimation+of+obesity+levels+based+on+eating+habits+and+physical+condition+). Also, in the **Dataset for estimation of obesity levels based on eating habits and physical condition in individuals from Colombia, Peru and Mexico.pdf** you can find all the information about how the data have been taken and generated.
+The dataset is available from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php) and you can access it from [here](https://archive.ics.uci.edu/ml/datasets/Estimation+of+obesity+levels+based+on+eating+habits+and+physical+condition+). Also, in the **Dataset for estimation of obesity levels based on eating habits and physical condition in individuals from Colombia, Peru and Mexico.pdf** you can find all the information about how the data have been taken and generated. If you prefer, I attach it as a zip in the **ObesityDataSet_raw_and_data_sinthetic.zip**.
 
 
 # Results
